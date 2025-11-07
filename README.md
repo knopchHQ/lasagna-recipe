@@ -3,6 +3,10 @@
 A simple, beautifully styled **HTML & CSS webpage** that showcases a full lasagna recipe — including ingredients, preparation steps, and nutrition facts.  
 This project is a mini example of a structured recipe webpage and a great practice in semantic HTML and clean CSS layout.
 
+## 🌐 Live Demo
+
+[[https://knopchhq.github.io/lasagna-recipe/](https://knopchhq.github.io/lasagna-recipe/)]
+
 ---
 
 ## 🖼️ Preview
