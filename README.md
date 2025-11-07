@@ -51,4 +51,4 @@ This project was created as part of my learning journey.
 
 ## 🌐 Live Demo
 
-[[https://knopchhq.github.io/dragon-shop/](https://knopchhq.github.io/lasagna-recipe/)]
+[[https://knopchhq.github.io/lasagna-recipe/](https://knopchhq.github.io/lasagna-recipe/)]
